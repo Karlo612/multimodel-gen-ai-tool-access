@@ -1,0 +1,9 @@
+{
+  "name": "Gemini Business Super App",
+  "description": "A comprehensive suite of AI tools for business use cases, powered by Gemini. Features include advanced chat, image and video generation/analysis, real-time audio conversations, and grounded search capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
